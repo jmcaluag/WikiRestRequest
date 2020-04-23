@@ -1,5 +1,5 @@
 # Wiki REST Request
-This project is a pratice in RESTful API Requests and part of a larger project and program that utilises the concepts and code in this program.
+This project is a practice in RESTful API Requests and part of a larger project and program that utilises the concepts and code in this program.
 
 This is a specific program in which it retrieves episode details of a television show's Season page on Wikipedia.
 
